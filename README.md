@@ -1,186 +1,149 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rajnish Kumar</h1>
 
-  # Hi 👋, I'm Rajnish Kumar
-  ### AI & Machine Learning Undergraduate | Full-Stack Developer | Content Creator
-
-  [![Profile Views](https://komarev.com/ghpvc/?username=rajnish801&color=89b4fa&style=for-the-badge&logo=eye&logoColor=white)](https://github.com/rajnish801)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajnish-kumar-singh-a0a550388)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajnish_kumar_801/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/rajnishkumarsingh88)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/life_withrajnish_)
-
-</div>
-
----
-
-### 🚀 About Me
-
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Machine Learning**
-- 💻 Building across **Full-Stack Web Development, Data Analytics, & Machine Learning**
-- 🛠️ Practical experience from industry simulations at **Tata (GenAI Analytics)** and **Deloitte (Data Analytics & Forensics)**
-- 📬 Reach me at: **[rajnishkrsingh801@gmail.com](mailto:rajnishkrsingh801@gmail.com)**
-- ⚡ Fun fact: **I edit technical & creative media and create digital content!**
-
----
-
-### 📜 Certifications & Job Simulations
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4 align="center">🏢 Tata – GenAI Powered Data Analytics</h4>
-      <p align="center"><em>Issued by Forage • Completed October 4, 2025</em></p>
-      
-**Practical Focus:**
-- Exploratory data analysis & risk profiling
-- Predicting delinquency with AI models
-- Executive reporting & data storytelling for collections strategy
-- Operationalizing AI-driven collection pipelines
-
-**Skills Acquired:**
-<br/>
-<img src="https://img.shields.io/badge/AI%20Analytics-1E1E2E?style=flat-square&color=89b4fa" alt="AI Analytics" />
-<img src="https://img.shields.io/badge/AI%20Strategy-1E1E2E?style=flat-square&color=89b4fa" alt="AI Strategy" />
-<img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-1E1E2E?style=flat-square&color=89b4fa" alt="EDA" />
-<img src="https://img.shields.io/badge/Predictive%20Analytics-1E1E2E?style=flat-square&color=89b4fa" alt="Predictive Analytics" />
-<img src="https://img.shields.io/badge/Model%20Selection%20%26%20Validation-1E1E2E?style=flat-square&color=89b4fa" alt="Model Validation" />
-<img src="https://img.shields.io/badge/Data%20Quality%20Management-1E1E2E?style=flat-square&color=89b4fa" alt="Data Quality" />
-<img src="https://img.shields.io/badge/Process%20Automation-1E1E2E?style=flat-square&color=89b4fa" alt="Process Automation" />
-<img src="https://img.shields.io/badge/Ethical%20Reasoning-1E1E2E?style=flat-square&color=89b4fa" alt="Ethical Reasoning" />
-<img src="https://img.shields.io/badge/Regulatory%20Compliance-1E1E2E?style=flat-square&color=89b4fa" alt="Compliance" />
-<img src="https://img.shields.io/badge/Strategic%20Thinking-1E1E2E?style=flat-square&color=89b4fa" alt="Strategic Thinking" />
-
-<br/><sub>Verification Code: <code>h2waFwbgqFwHYt3LJ</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4 align="center">💼 Deloitte – Data Analytics Job Simulation</h4>
-      <p align="center"><em>Issued by Forage • Completed August 9, 2026</em></p>
-
-**Practical Focus:**
-- Forensic technology & data analysis
-- Data modeling & pattern detection
-- Log inspection and cyber/telemetry analytics
-- Business communications & strategic tech planning
-
-**Skills Acquired:**
-<br/>
-<img src="https://img.shields.io/badge/Data%20Analysis-1E1E2E?style=flat-square&color=a6e3a1" alt="Data Analysis" />
-<img src="https://img.shields.io/badge/Python%20Programming-1E1E2E?style=flat-square&color=a6e3a1" alt="Python Programming" />
-<img src="https://img.shields.io/badge/Data%20Modeling-1E1E2E?style=flat-square&color=a6e3a1" alt="Data Modeling" />
-<img src="https://img.shields.io/badge/Data%20Visualization%20Tools-1E1E2E?style=flat-square&color=a6e3a1" alt="Data Viz" />
-<img src="https://img.shields.io/badge/Data%20Structures-1E1E2E?style=flat-square&color=a6e3a1" alt="Data Structures" />
-<img src="https://img.shields.io/badge/Spreadsheet%20Skills-1E1E2E?style=flat-square&color=a6e3a1" alt="Spreadsheet Skills" />
-<img src="https://img.shields.io/badge/Computer%20Networking-1E1E2E?style=flat-square&color=a6e3a1" alt="Computer Networking" />
-<img src="https://img.shields.io/badge/Log%20Analysis-1E1E2E?style=flat-square&color=a6e3a1" alt="Log Analysis" />
-<img src="https://img.shields.io/badge/Web%20Security-1E1E2E?style=flat-square&color=a6e3a1" alt="Web Security" />
-<img src="https://img.shields.io/badge/Formal%20Communication-1E1E2E?style=flat-square&color=a6e3a1" alt="Communication" />
-
-<br/><sub>Verification Code: <code>6a716cdd72c25bb9a98860e7</code></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajnish801&theme=dracula&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" width="100%" />
-</div>
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<div align="center">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br/>
-
-  <!-- Frameworks & Backend -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <br/>
-
-  <!-- AI / ML & Data Science -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <br/>
-
-  <!-- Databases & Dev Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-</div>
-
----
-
-### 📊 GitHub Analytics & Activity
-
-<div align="center">
-  <!-- Core Stats & Streak Side-by-Side -->
+<p align="center">
   <a href="https://github.com/rajnish801">
-    <img src="https://github-readme-stats.vercel.app/api?username=rajnish801&show_icons=true&include_all_commits=true&count_private=true&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&icon_color=f9e2af&text_color=cdd6f4&bg_color=1e1e2e" alt="Rajnish's GitHub Stats" width="48%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=An+ambitious+person+who+loves+to+learn+new+things;BTech+(AIML)+Student;Frontend+%7C+Backend+%7C+GenAI+%7C+ML;Content+Creator" alt="Typing SVG" />
   </a>
-  <a href="https://github.com/rajnish801">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish801&theme=catppuccin-mocha&hide_border=true&background=1E1E2E&stroke=89B4FA&ring=FAB387&fire=F38BA8&currStreakNum=CDD6F4" alt="Contribution Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajnish801&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rajnish801?label=Followers&style=flat&logo=github" alt="Followers" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 I'm currently learning **BTech (AIML)**
+- 💬 Ask me about **Frontend, Backend, GenAI, ML**
+- 🎥 Fun fact: **I am a Content Creator**
+- 📫 How to reach me: **rajnishkrsingh801@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/rajnish-kumar-singh-a0a550388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://kaggle.com/rajnishkumarsingh88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
+<a href="https://instagram.com/life_withrajnish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/rajnish_kumar_801/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> Replace `REPO-NAME-1`, `REPO-NAME-2`, ... with the exact names of your best repositories.
+
+<p align="center">
+  <a href="https://github.com/rajnish801/REPO-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-</div>
+  <a href="https://github.com/rajnish801/REPO-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/rajnish801/REPO-NAME-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" alt="Project 3" />
+  </a>
+  <a href="https://github.com/rajnish801/REPO-NAME-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" alt="Project 4" />
+  </a>
+</p>
+
+---
+
+## 🎓 Certifications & Skills Gained
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Tata_logo.svg/120px-Tata_logo.svg.png" height="22" alt="Tata" /> Tata: GenAI Powered Data Analytics Job Simulation
+**Issued by:** Forage &nbsp;|&nbsp; **Completed:** October 4, 2025
+
+**Practical tasks completed:**
+- Exploratory data analysis and risk profiling
+- Predicting delinquency with AI
+- Business report and data storytelling for collections strategy
+- Implementing an AI-driven collections strategy
+
+**Skills:**
+
+`AI Analytics` `AI Strategy` `Analytical Reporting` `Business Communication` `Data Interpretation` `Data Quality Management` `Decision Making` `Ethical Reasoning` `Exploratory Data Analysis` `Model Selection` `Model Validation` `Predictive Analytics` `Process Automation` `Regulatory Compliance` `Strategic Thinking`
 
 <br/>
 
-<div align="center">
-  <!-- Top Languages Compact -->
-  <a href="https://github.com/rajnish801">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish801&layout=compact&langs_count=8&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" alt="Top Languages" width="60%" />
-  </a>
-</div>
+### 🟢 Deloitte: Data Analytics Job Simulation
+**Issued by:** Forage &nbsp;|&nbsp; **Completed:** August 9, 2026
 
-<br/>
+**Practical tasks completed:**
+- Data analysis
+- Forensic technology
 
-<div align="center">
-  <!-- Contribution Activity Graph -->
-  <a href="https://github.com/rajnish801">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnish801&theme=react-dark&bg_color=1e1e2e&color=89b4fa&line=f9e2af&point=cdd6f4&hide_border=true" alt="Contribution Activity Graph" width="98%" />
-  </a>
-</div>
+**Skills:**
+
+`Computer Networking` `Data Analysis` `Data Modeling` `Data Structures` `Data Visualization Tools` `Formal Communication` `Log Analysis` `Planning` `Programming` `Python Programming` `Software Development` `Spreadsheet Skills` `Web Security`
 
 ---
 
-### 📌 Featured Projects
+## 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/rajnish801">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=rajnish801&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" width="48%" />
-  </a>
-  <a href="https://github.com/rajnish801">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=cure-hub-hospital&theme=catppuccin_mocha&hide_border=true&title_color=89b4fa&text_color=cdd6f4&bg_color=1e1e2e" width="48%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajnish801&theme=tokyonight" alt="Profile details: total repos, stars, commits" />
+</p>
 
-<br/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnish801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish801&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
 
-| Project | Tech Stack | Description | Live Demo / Link |
-| :--- | :--- | :--- | :--- |
-| **Credit Delinquency Risk Model** | Python, Scikit-Learn, Pandas | AI-powered risk classification and exploratory delinquency profiling (Tata Simulation). | [Repository ↗](https://github.com/rajnish801) |
-| **Cure.Hub UI & Web Portal** | HTML, CSS, JavaScript, Node.js | Comprehensive hospital outpatient portal and patient scheduling interface. | [Repository ↗](https://github.com/rajnish801) |
-| **Forensic Data & Log Analyzer** | Python, Data Structures | Log inspection, structured anomaly detection, and forensic reporting pipeline. | [Repository ↗](https://github.com/rajnish801) |
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajnish801&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajnish801&theme=tokyonight" alt="Commits per language" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajnish801&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+### 📈 Contribution Activity Graph (Commit Graph)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnish801&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</p>
+
+### ⏰ When I Commit
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajnish801&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+</p>
 
 ---
 
-<div align="center">
-  <sub>Designed with ❤️ by Rajnish Kumar</sub>
-</div>
+<p align="center">
+  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
+</p>
