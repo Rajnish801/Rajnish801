@@ -57,24 +57,38 @@
 
 ## 🚀 Featured Projects
 
-> Replace `REPO-NAME-1`, `REPO-NAME-2`, ... with the exact names of your best repositories.
+> Edit the repo names and descriptions below to match your best projects.
 
-<p align="center">
-  <a href="https://github.com/rajnish801/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/rajnish801/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/rajnish801/REPO-NAME-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-3&theme=tokyonight&hide_border=true" alt="Project 3" />
-  </a>
-  <a href="https://github.com/rajnish801/REPO-NAME-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajnish801&repo=REPO-NAME-4&theme=tokyonight&hide_border=true" alt="Project 4" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rajnish801/REPO-NAME-1">REPO-NAME-1</a></h3>
+      <p>One-line description of what this project does.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/github/stars/rajnish801/REPO-NAME-1?style=flat&logo=github" alt="Stars" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rajnish801/REPO-NAME-2">REPO-NAME-2</a></h3>
+      <p>One-line description of what this project does.</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/github/stars/rajnish801/REPO-NAME-2?style=flat&logo=github" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rajnish801/REPO-NAME-3">REPO-NAME-3</a></h3>
+      <p>One-line description of what this project does.</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/github/stars/rajnish801/REPO-NAME-3?style=flat&logo=github" alt="Stars" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rajnish801/REPO-NAME-4">REPO-NAME-4</a></h3>
+      <p>One-line description of what this project does.</p>
+      <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="ML" />
+      <img src="https://img.shields.io/github/stars/rajnish801/REPO-NAME-4?style=flat&logo=github" alt="Stars" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -115,8 +129,7 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajnish801&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnish801&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajnish801&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -133,7 +146,7 @@
 ### 📈 Contribution Activity Graph (Commit Graph)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajnish801&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/rajnish801" alt="Contribution activity graph" width="95%" />
 </p>
 
 ### ⏰ When I Commit
