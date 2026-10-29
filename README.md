@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/rajnish801">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=An+ambitious+person+who+works+on+new+things;BTech+(AIML)+Student;Frontend+%7C+Backend+%7C+GenAI+%7C+ML;Content+Creator" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=An+ambitious+person+who+loves+to+learn+new+things;BTech+(AIML)+Student;Frontend+%7C+Backend+%7C+GenAI+%7C+ML;Content+Creator" alt="Typing SVG" />
   </a>
 </p>
 
@@ -143,10 +143,14 @@
   <img src="https://streak-stats.demolab.com/?user=rajnish801&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
-### 📈 Contribution Activity Graph (Commit Graph)
+### 🐍 Contribution Activity Graph (Commit Graph)
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/rajnish801" alt="Contribution activity graph" width="95%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajnish801/rajnish801/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajnish801/rajnish801/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/rajnish801/rajnish801/output/github-snake.svg" width="95%" />
+  </picture>
 </p>
 
 ### ⏰ When I Commit
